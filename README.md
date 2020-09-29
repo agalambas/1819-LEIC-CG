@@ -24,7 +24,7 @@ E: Ball Axis Toggle
 1/2/3: Camera Swap
 ```
 
-Work 3: Lights
+Work 3: Materials & Lights
 ```
 A: Wireframe Toggle
 1/2/3/4: Spotlights Toggle
@@ -34,7 +34,7 @@ L: Toggle Reflection
 N: Day/Night Toggle
 ```
 
-Work 4: Textures
+Work 4: Dynamic Lights & Textures
 ```
 W: Wireframe Toggle
 B: Ball Movement
