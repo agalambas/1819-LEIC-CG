@@ -10,26 +10,30 @@ Javascript
 Open index.html
 
 #### Keybindings
-```
-**Work 1**
-A: Wireframe Toggle
+Work 1
+```A: Wireframe Toggle
 1/2/3/4: Camera Swap
-Arrows: Chair Movement
+Arrows: Chair Movement```
 
-**Work 2**
+Work 2
+```
 A: Wireframe Toggle
 E: Ball Axis Toggle
 1/2/3: Camera Swap
+```
 
-**Work 3**
+Work 3
+```
 A: Wireframe Toggle
 1/2/3/4: Spotlights Toggle
 Arrows: Plane Rotation
 G: Change Material
 L: Toggle Reflection
 N: Day/Night Toggle
+```
 
-**Work 4**
+Work 4
+```
 W: Wireframe Toggle
 B: Ball Movement
 S: Pause
