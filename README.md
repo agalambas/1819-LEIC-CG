@@ -11,9 +11,11 @@ Open index.html
 
 #### Keybindings
 Work 1
-```A: Wireframe Toggle
+```
+A: Wireframe Toggle
 1/2/3/4: Camera Swap
-Arrows: Chair Movement```
+Arrows: Chair Movement
+```
 
 Work 2
 ```
